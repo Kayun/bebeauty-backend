@@ -1,0 +1,19 @@
+{
+  "name": "BeBeauty",
+  "version": "0.1.0",
+  "description": "service for beauty salons",
+  "scripts": {
+    "start": "set NODE_ENV=development && gulp",
+    "build": "set NODE_ENV=development && build"
+  },
+  "author": "kayun artem <kayun.artem@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=5.4.0"
+  },
+  "dependencies": {
+    "mime": "^1.3.4",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }
+}
